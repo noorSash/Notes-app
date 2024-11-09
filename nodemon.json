@@ -1,0 +1,7 @@
+{
+    "watch": ["src"],
+    "ext": "js,jsx,ts,tsx,css,html",
+    "ignore": ["dist/*", "node_modules/*"],
+    "exec": "npm run build && npx serve -s dist"
+  }
+  
