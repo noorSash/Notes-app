@@ -43,7 +43,8 @@ npm start: npm run dev.
 ![image](https://github.com/user-attachments/assets/c86110ce-096c-42dc-8612-6e895b93535f)
 
 
-![image](https://github.com/user-attachments/assets/c197c83d-b799-4260-95da-fdc65156d4bc)
+![image](https://github.com/user-attachments/assets/d0c30446-f5fe-427f-9b9d-01dfa3dabcbd)
+
 
 
 
