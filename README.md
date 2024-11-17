@@ -26,9 +26,30 @@ API (Postman)
 
 # Scripts
 Backend
+
 npm start: Start the backend server in production mode.
 Frontend
+
 npm start: npm run dev.
+
+# Screenshots
+![image](https://github.com/user-attachments/assets/59be4dbc-fa5b-4bd9-80e7-fe7fd6730e86)
+
+
+![image](https://github.com/user-attachments/assets/52ba6a99-8b4f-41bf-970c-6762c9ce198d)
+
+
+
+![image](https://github.com/user-attachments/assets/c86110ce-096c-42dc-8612-6e895b93535f)
+
+
+![image](https://github.com/user-attachments/assets/c197c83d-b799-4260-95da-fdc65156d4bc)
+
+
+
+
+
+
 
 
 
